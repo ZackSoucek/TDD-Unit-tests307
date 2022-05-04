@@ -1,0 +1,22 @@
+{
+  "name": "jest",
+  "version": "1.0.0",
+  "description": "��#\u0000 \u0000T\u0000D\u0000D\u0000-\u0000U\u0000n\u0000i\u0000t\u0000-\u0000t\u0000e\u0000s\u0000t\u0000s\u00003\u00000\u00007\u0000\r\u0000 \u0000",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ZackSoucek/TDD-Unit-tests307.git"
+  },
+  "author": "Zack Soucek",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ZackSoucek/TDD-Unit-tests307/issues"
+  },
+  "homepage": "https://github.com/ZackSoucek/TDD-Unit-tests307#readme",
+  "dependencies": {
+    "jest": "^27.5.1"
+  }
+}
